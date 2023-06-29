@@ -56,7 +56,7 @@ public class Guru99_Test_Homepage extends TestBase {
 
 		homepage.get_google_text();
 		System.out.println("clicked on search icon");
-		log.info("clicked on link:");
+		log.info("clicked on link and should display the test result:");
 
 	}
 	
